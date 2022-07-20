@@ -1,0 +1,13 @@
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\KB\Desktop\오세룡\C#\FastFoodDemo\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustomControl.resources
