@@ -1,0 +1,11 @@
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\bin\Debug\HelloCSharp01.exe.config
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\bin\Debug\HelloCSharp01.exe
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\bin\Debug\HelloCSharp01.pdb
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\obj\Debug\HelloCSharp01.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\obj\Debug\HelloCSharp01.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\obj\Debug\HelloCSharp01.Form1.resources
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\obj\Debug\HelloCSharp01.Properties.Resources.resources
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\obj\Debug\HelloCSharp01.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\obj\Debug\HelloCSharp01.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\obj\Debug\HelloCSharp01.exe
+C:\Users\KB\Desktop\오세룡\C#\HelloCSharp01\HelloCSharp01\obj\Debug\HelloCSharp01.pdb
