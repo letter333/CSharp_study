@@ -1,0 +1,17 @@
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\bin\Debug\CustomTabs.exe.config
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\bin\Debug\CustomTabs.exe
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\bin\Debug\CustomTabs.pdb
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\bin\Debug\Guna.UI2.dll
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.Form1.resources
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.Properties.Resources.resources
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.UserControls.UC_Home.resources
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.UserControls.UC_Inbox.resources
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.UserControls.UC_Sent.resources
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.UserControls.UC_Settings.resources
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.csproj.CopyComplete
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.exe
+C:\Users\KB\Desktop\오세룡\C#\오세룡\CustomTabs\CustomTabs\obj\Debug\CustomTabs.pdb
