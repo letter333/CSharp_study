@@ -1,0 +1,11 @@
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\bin\Debug\MusicLoginDemo.exe.config
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\bin\Debug\MusicLoginDemo.exe
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\bin\Debug\MusicLoginDemo.pdb
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\obj\Debug\MusicLogin.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\obj\Debug\MusicLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\obj\Debug\MusicLoginDemo.Form1.resources
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\obj\Debug\MusicLoginDemo.Properties.Resources.resources
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\obj\Debug\MusicLogin.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\obj\Debug\MusicLogin.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\obj\Debug\MusicLoginDemo.exe
+C:\Users\KB\Desktop\오세룡\C#\MusicLoginDemo\MusicLoginDemo\obj\Debug\MusicLoginDemo.pdb
