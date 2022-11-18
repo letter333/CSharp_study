@@ -39,7 +39,7 @@ namespace HelloMyCSharp04
                     str += "\r\n";
                 }
             }
-            this.label1.Text = str;
+            label1.Text = str;
         }
     }
 }
