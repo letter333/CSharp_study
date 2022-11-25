@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "useAPIJson", "useAPIJson\useAPIJson.csproj", "{C918472D-6BC7-4C53-B8C5-FAF898DF331D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C918472D-6BC7-4C53-B8C5-FAF898DF331D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C918472D-6BC7-4C53-B8C5-FAF898DF331D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C918472D-6BC7-4C53-B8C5-FAF898DF331D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C918472D-6BC7-4C53-B8C5-FAF898DF331D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF53DF36-863A-4686-9441-CFA3FFDC49A4}
+	EndGlobalSection
+EndGlobal
